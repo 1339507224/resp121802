@@ -1,0 +1,7 @@
+com\sibd\travel\controller\OrdersController.class
+com\sibd\travel\controller\RoleController.class
+com\sibd\travel\controller\PermissionController.class
+com\sibd\travel\controller\SysLogController.class
+com\sibd\travel\controller\SysLogAop.class
+com\sibd\travel\controller\UserController.class
+com\sibd\travel\controller\ProductController.class

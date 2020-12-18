@@ -1,0 +1,12 @@
+com\sibd\travel\service\impl\PermissionServiceImpl.class
+com\sibd\travel\service\impl\SysLogServiceImpl.class
+com\sibd\travel\service\UserService.class
+com\sibd\travel\service\impl\ProductServiceImpl.class
+com\sibd\travel\service\RoleService.class
+com\sibd\travel\service\OrdersService.class
+com\sibd\travel\service\impl\OrdersServiceImpl.class
+com\sibd\travel\service\SysLogService.class
+com\sibd\travel\service\impl\RoleServiceImpl.class
+com\sibd\travel\service\PermissionService.class
+com\sibd\travel\service\ProductService.class
+com\sibd\travel\service\impl\UserServiceImpl.class

@@ -1,0 +1,8 @@
+com\sibd\travel\mapper\RoleMapper.class
+com\sibd\travel\mapper\UsersMapper.class
+com\sibd\travel\mapper\MemberMapper.class
+com\sibd\travel\mapper\PermissionMapper.class
+com\sibd\travel\mapper\TravellerMapper.class
+com\sibd\travel\mapper\ProductMapper.class
+com\sibd\travel\mapper\OrdersMapper.class
+com\sibd\travel\mapper\SysLogMapper.class
